@@ -132,6 +132,8 @@ etc/clusto*.conf
 !.config/nvim/*/*
 !.config/nvim/*/*
 !.config/nvim/*/*/*
+!.config/wezterm
+!.config/wezterm/*
 !.config/alacritty
 !.config/alacritty/alacritty.toml
 !.config/bat
